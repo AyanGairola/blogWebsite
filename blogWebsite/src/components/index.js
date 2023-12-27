@@ -6,12 +6,13 @@ import LogoutBtn from "./Header/LogoutBtn.jsx";
 import RTE from "./RTE.jsx";
 import Signup from "./Signup.jsx";
 import Select from './Select.jsx'
-import Login from "./Login.jsx";
+
 import PostForm from "./PostForm.jsx";
 import PostCard from "./PostCard.jsx";
 import AuthLayout from './AuthLayout.jsx'
 import Button from './Button.jsx'
 import Input from './Input.jsx'
+import Login from './Login.jsx'
 
 
 export{
