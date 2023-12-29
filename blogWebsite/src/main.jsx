@@ -13,6 +13,7 @@ import AllPosts from './pages/AllPosts.jsx'
 import AddPost from "./pages/AddPost";
 import Signup from './pages/Signup'
 import EditPost from "./pages/EditPost";
+import { RouterProvider } from 'react-router-dom';
 
 
 
